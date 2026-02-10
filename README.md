@@ -24,7 +24,10 @@ This repository tracks my public open-source contributions (PRs, issues, reviews
 
 -  wasmedge/wasmedge
   -  Fix: Enable RISC-V cross-compilation CI #4542 -https://github.com/WasmEdge/WasmEdge/pull/4542
-
+ -  feat: implement basic export validation (Stage A) #4617  -https://github.com/WasmEdge/WasmEdge/pull/4617
+ -   feat: support parameterized error messages #4625  -https://github.com/WasmEdge/WasmEdge/pull/4625
+ -    fix(wasi-nn): disable shallow clone for BitNet dependency #4638 - https://github.com/WasmEdge/WasmEdge/pull/4638
+ -     add full export spec test suite #2 -https://github.com/WasmEdge/wasmedge-spectest/pull/2
 ---
 
 
