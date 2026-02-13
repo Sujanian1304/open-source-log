@@ -27,7 +27,9 @@ This repository tracks my public open-source contributions (PRs, issues, reviews
  -  feat: implement basic export validation (Stage A) #4617  -https://github.com/WasmEdge/WasmEdge/pull/4617
  -   feat: support parameterized error messages #4625  -https://github.com/WasmEdge/WasmEdge/pull/4625
  -    fix(wasi-nn): disable shallow clone for BitNet dependency #4638 - https://github.com/WasmEdge/WasmEdge/pull/4638
- -     add full export spec test suite #2 -https://github.com/WasmEdge/wasmedge-spectest/pull/2
+ - add full export spec test suite #2 -https://github.com/WasmEdge/wasmedge-spectest/pull/2
+ - fix(driver): validate function type to prevent SEGV in reactor mode -https://github.com/WasmEdge/WasmEdge/pull/4647
+ - fix(fault): handle stack overflow via sigaltstack & harden fault logic -https://github.com/WasmEdge/WasmEdge/pull/4644
 ---
 
 
