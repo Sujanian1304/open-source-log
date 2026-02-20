@@ -23,7 +23,9 @@ This repository tracks my public open-source contributions (PRs, issues, reviews
   -  [PT FE]: Add support for quantized_conv1d and quantized_conv1d_relu #33840 -https://github.com/openvinotoolkit/openvino/pull/33840
   -  [TF FE] Add complex type support for ReverseSequence#3413 -https://github.com/openvinotoolkit/openvino/pull/34131
   -  [ONNX FE] Add DeformConv operator support (opset 19+)#34132 -https://github.com/openvinotoolkit/openvino/pull/34132
-
+  -  [Good First Issue][Keras 3 OpenVINO Backend]: Support numpy.signbit operation #34054 -https://github.com/keras-team/keras/pull/22228
+  -  [Keras 3 OpenVINO Backend]: Support numpy.nextafter operation #34225-https://github.com/keras-team/keras/pull/22236
+  -  [Keras 3 OpenVINO Backend]: Support numpy.nextafter operation #34225-https://github.com/keras-team/keras/pull/22236 
 
 -  wasmedge/wasmedge
   -  Fix: Enable RISC-V cross-compilation CI #4542 -https://github.com/WasmEdge/WasmEdge/pull/4542
