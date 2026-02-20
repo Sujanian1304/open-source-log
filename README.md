@@ -11,6 +11,7 @@ This repository tracks my public open-source contributions (PRs, issues, reviews
   - Add BigInt64/Uint64 support to Tensor and InferRequest #32131 –(https://github.com/openvinotoolkit/openvino/pull/32131)
   -  [PT FE]: Add support for prim::data operation #32167 - https://github.com/openvinotoolkit/openvino/pull/32167
   -   [OV JS] Add Tensor.copyTo() method to Node.js bindings #32340 - https://github.com/openvinotoolkit/openvino/pull/32340
+  
 
 ---
 
@@ -20,6 +21,8 @@ This repository tracks my public open-source contributions (PRs, issues, reviews
   - pytorch_frontend: support prim::Uninitialized #33608 -https://github.com/openvinotoolkit/openvino/pull/33608
   - [GPU] Enable LOG_LEVEL property support #33628 - https://github.com/openvinotoolkit/openvino/pull/33628
   -  [PT FE]: Add support for quantized_conv1d and quantized_conv1d_relu #33840 -https://github.com/openvinotoolkit/openvino/pull/33840
+  -  [TF FE] Add complex type support for ReverseSequence#3413 -https://github.com/openvinotoolkit/openvino/pull/34131
+  -  [ONNX FE] Add DeformConv operator support (opset 19+)#34132 -https://github.com/openvinotoolkit/openvino/pull/34132
 
 
 -  wasmedge/wasmedge
@@ -30,6 +33,7 @@ This repository tracks my public open-source contributions (PRs, issues, reviews
  - add full export spec test suite #2 -https://github.com/WasmEdge/wasmedge-spectest/pull/2
  - fix(driver): validate function type to prevent SEGV in reactor mode -https://github.com/WasmEdge/WasmEdge/pull/4647
  - fix(fault): handle stack overflow via sigaltstack & harden fault logic -https://github.com/WasmEdge/WasmEdge/pull/4644
+ - feat(statistics): add VM lifecycle timing, CPU, and memory profiling#4650 -https://github.com/WasmEdge/WasmEdge/pull/4650
 ---
 
 
